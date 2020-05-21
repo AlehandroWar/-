@@ -14,8 +14,6 @@ if weight < 0
         
     end
 
-end
-
 
 
 
