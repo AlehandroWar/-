@@ -4,7 +4,6 @@ a = gets.chomp.to_i
 puts "Чему равна высота треугольника?"
 h = gets.chomp.to_i
 
-S = "1/2*a*h"
+S = 0.5 * a * h
 
 puts "#{S} - площадь данного треугольника"
-end
